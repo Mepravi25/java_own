@@ -23,9 +23,6 @@ public class tyc{
         System.out.println("String Count "+ str);
         System.out.println("Integer Count "+ num);
         System.out.println("Double Count "+ dou);
-
-
-
         sc.close();
     
 }
